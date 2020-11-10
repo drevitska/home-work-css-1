@@ -1,0 +1,38 @@
+h1 {
+    font-weight: bold;
+    text-align: center;
+    background-color: #A52A2A;
+    color: white;
+}
+main {
+    margin-right: 10px;   
+}
+.sunset{
+    width: 100%;
+
+}
+p {
+    font-size: 18px;
+}
+.italik {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
+div {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+.car {
+    border: 3px dotted black
+}
+footer {
+    font-size: 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
